@@ -1,0 +1,12 @@
+
+div{
+    width: 100px;
+    height: 100px;
+
+    background-color: #f33;
+    border-radius: 10px;
+    display: none;
+    margin-top: 20px;
+
+}
+
