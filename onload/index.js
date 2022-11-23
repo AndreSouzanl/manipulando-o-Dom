@@ -1,0 +1,7 @@
+
+
+function loadPage(){
+
+    alert('carregoou!!');
+
+}
